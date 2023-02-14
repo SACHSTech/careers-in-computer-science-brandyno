@@ -3,4 +3,4 @@
 # __SOFTWARE DEVELOPMENT:__
 ## What does a Software Developer do?
 
-As the name implies, a software dev's day to day is mostly concerned with  software. 
+Software development refers to the sector of computer science that is dedicated to several aspects of computer software. This includes the creation, designing, deployment, and continual support of software[(IBM)](https://www.ibm.com/topics/software-development).
