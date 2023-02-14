@@ -1,6 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10086934&assignment_repo_type=AssignmentRepo) 
 #
 # __SOFTWARE DEVELOPMENT:__
+![Waterloo](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/software-development-button.jpg?itok=v_45-X5h
+ "5 Software development trends to watch out for")
+ [(Ivanov)](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/software-development-button.jpg?itok=v_45-X5h)
 ## What does a Software Developer do?
 
 Software development refers to the sector of computer science that is dedicated to several aspects of computer software. This includes the creation, designing, deployment, and continual support of software[(IBM)](https://www.ibm.com/topics/software-development).
@@ -52,3 +55,5 @@ Entry | Software Engineer Intern | RippleX | Estimate of $44k-$106k per year [(G
 |
 
 ## University Example
+![Waterloo](https://uwaterloo.ca/future-students/sites/ca.future-students/files/uploads/images/eng-software-engineering.jpg "Waterloo Software Engineering")
+[(University of Waterloo, “Software Engineering”)](https://uwaterloo.ca/future-students/sites/ca.future-students/files/uploads/images/eng-software-engineering.jpg)
