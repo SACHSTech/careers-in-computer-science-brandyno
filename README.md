@@ -112,3 +112,43 @@ In a rather similar vein to Co-ops, finding an internship can be a worthwhile en
 __3. Coding Contests__
 
 Coding contests, such as [those regularly held by Google](https://codingcompetitions.withgoogle.com/), are good sources of  practice, competition, and possibly even notoriety. Winning isn't even necessary to gain value, as certain pertinent skills can be honed through competing. For instance, [Google's Hash Code](https://codingcompetitions.withgoogle.com/hashcode) encourages teamwork and cooperation, as well as problem solving skills[(Google)](https://codingcompetitions.withgoogle.com/).
+
+## Works Cited
+Alpaio, Kelsey. “Career Crush: What Is It like to Be a Software Engineer?” Harvard Business Review, 21 July 2021, [hbr.org/2021/07/career-crush-what-is-it-like-to-be-a-software-engineer](https://hbr.org/2021/07/career-crush-what-is-it-like-to-be-a-software-engineer) .
+
+Glassdoor. “Software Engineer Intern Salaries in Canada.” Glassdoor.ca, 11 Feb. 2023, <https://www.glassdoor.ca/Salaries/software-engineer-intern-salary-SRCH_KO0,24.htm>.
+
+Google. “Google’s Coding Competitions - Code Jam, Hash Code and Kick Start.” Coding Competitions, <https://codingcompetitions.withgoogle.com/>. Accessed 13 Feb. 2023.
+
+Government of Canada. “IT Software Developer.” Www.canada.ca, 25 Jan. 2018, <https://www.canada.ca/en/security-intelligence-service/corporate/csis-jobs/available-jobs/it-software-developer.html>.
+
+IBM. “What Is Software Development?” Ibm.com, 2019, <https://www.ibm.com/topics/software-development>.
+
+Indeed. “Software Engineer.” Indeed.ca, 2023, <https://ca.indeed.com/software-engineer-jobs?vjk=a0994cb45815b174&advn=5787714263672405>.
+
+---. “Software Engineer Intern.” Indeed.com, <https://ca.indeed.com/Software-Engineer-Intern-jobs?vjk=72146bfee6f418e5>.
+
+---. “Software Engineer Intern, RippleX Summer 2023.” Indeed.com, 2023, <https://ca.indeed.com/jobs?q=software+engineer&sc=0kf%3Ajt%28internship%29%3B&vjk=a915743c8fa0ff7b>.
+
+---. “Software Quality Engineer.” Indeed.ca, 2023, <https://ca.indeed.com/software-engineer-jobs?vjk=60208f206e3608d4&advn=1709696827864568>.
+
+Indeed Editorial Team. “What Is the Difference between a Co-Op and an Internship?” Indeed Career Guide, 4 Feb. 2020, <https://www.indeed.com/career-advice/finding-a-job/co-op-vs-internship>.
+
+Ivanov, Kirill. “5 Software Development Trends to Watch out For,” Alamy Stock Photo, <https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/software-development-button.jpg?itok=v_45-X5h>.
+
+Ontario Universities’ Application Centre. “Software Engineering (Co-Op Only) – OUInfo.” Ontariouniversitiesinfo.ca, 2021, <https://www.ontariouniversitiesinfo.ca/programs/354>.
+
+Robert Half Talent Solutions. “Software Developer Job Description and Duties | Robert Half.” Www.roberthalf.com.au, 12 Sept. 2017, <https://www.roberthalf.com.au/employers/it-technology/software-developer-jobs#:~:text=Researching%2C%20designing%2C%20implementing%2C%20and>.
+
+U.S. Bureau of Labor Statistics. “Software Developers, Quality Assurance Analysts, and Testers : Occupational Outlook Handbook: : U.S. Bureau of Labor Statistics.” Www.bls.gov, U.S. Bureau of Labor Statistics, 6 Feb. 2023, <https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm#:~:text=Software%20developers%20create%20the%20computer>.
+
+University of Waterloo. “Courses for Your Software Engineering Degree.” Undergraduate Programs, 8 July 2021, <https://uwaterloo.ca/future-students/courses/software-engineering>.
+
+---. “Software Engineering.” Undergraduate Programs, 3 Apr. 2013, <https://uwaterloo.ca/future-students/programs/software-engineering?utm_source=mur-einfo&utm_medium=referral&utm_campaign=mur-ouac>.
+
+---. “Software Engineering,” University of Waterloo, <https://uwaterloo.ca/future-students/sites/ca.future-students/files/uploads/images/eng-software-engineering.jpg>.
+
+---. “Software Engineering | Co-Op.” Software Engineering, 25 July 2012, <https://uwaterloo.ca/software-engineering/undergraduate-students/co-op>.
+
+Zhang, Lily. “What Is an Internship and How Do You Get One?” The Muse, 19 June 2020, <https://www.themuse.com/advice/what-is-an-internship-definition-advice>.
+‌
