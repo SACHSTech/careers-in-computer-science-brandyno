@@ -96,3 +96,19 @@ The [University of Waterloo's   website](https://uwaterloo.ca/future-students/pr
 This program is especially long as a result of six neccesary, intermittent terms of work, as a part of University of Waterloo's co-op program.
 
 As such, a total of __four and a half years__ are required to become a graduate of the program.
+
+
+## 3 Valuable Learning Oppurtunities
+A rather worthwhile endeavor is __experiential learning__. Experiential learning involves acquiring unique experience outside of a standard education, which can provide critical advantages in the eyes of prospective employers. The following are three ways in which valuable software development experience can be gained outside of traditional schooling:
+
+__1. Co-op programs__
+
+An example of a co-op program is that of University of Waterloo[(University of Waterloo, “Software Engineering | Co-Op”)](https://uwaterloo.ca/software-engineering/undergraduate-students/co-op). Co-op is a service that can be provided by educational institutions for an alternative learning experience to the typical school program, wherein additional time in the school year is allocated to work terms[(University of Waterloo, “Software Engineering | Co-Op”)](https://uwaterloo.ca/software-engineering/undergraduate-students/co-op). This provides accessible, entry-level work experience for students entering the industry, which proves exceptionally beneficial by providing both on-the-job, experiential learning, as well as job experience that can be put on a resume[(University of Waterloo, “Software Engineering | Co-Op”)](https://uwaterloo.ca/software-engineering/undergraduate-students/co-op).
+
+__2. Internships__
+
+In a rather similar vein to Co-ops, finding an internship can be a worthwhile endeavor to gain some experience. Internships are entry-level, short-term jobs which are offered to provide individuals with valuable experience in a particular industry/field[(Zhang)](https://www.themuse.com/advice/what-is-an-internship-definition-advice). In contrast with Co-op, an internship is far shorter term at a place of employment, which provides benefits for students who wish to gain a wider array of experiential learning from different employers and/or industries[(Indeed Editorial Team)](https://www.indeed.com/career-advice/finding-a-job/co-op-vs-internship). 
+
+__3. Coding Contests__
+
+Coding contests, such as [those regularly held by Google](https://codingcompetitions.withgoogle.com/), are good sources of  practice, competition, and possibly even notoriety. Winning isn't even necessary to gain value, as certain pertinent skills can be honed through competing. For instance, [Google's Hash Code](https://codingcompetitions.withgoogle.com/hashcode) encourages teamwork and cooperation, as well as problem solving skills[(Google)](https://codingcompetitions.withgoogle.com/).
