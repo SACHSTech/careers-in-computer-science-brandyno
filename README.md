@@ -72,4 +72,27 @@ According to the [Ontario Universities' Application Centre](https://www.ontariou
     * strong performance in a programming contest
     * significant work experience
 
+### First Year Courses
+The [University of Waterloo's   website](https://uwaterloo.ca/future-students/programs/software-engineering?utm_source=mur-einfo&utm_medium=referral&utm_campaign=mur-ouac) describes the first year courses as "a mix of foundational courses in computer engineering, computer science, and math". The exact courses a first year student takes are displayed on the [University of Waterloo, “Courses for Your Software Engineering Degree”](https://uwaterloo.ca/future-students/courses/software-engineering) page. Courses include a clear focus on __engineering__, __mathematics__, and __computer science__. There are two CS courses, 4 math courses, 2 SE courses, and 4 ECE courses. Furthermore, many of these courses show clear overlap between subjects. This is evident in courses such as the math course "_Calculus 1 for Engineering_", or the CS course "_Introduction to Data Abstraction and Implementation_".
+#### The following list is ripped from [(University of Waterloo, “Courses for Your Software Engineering Degree”)](https://uwaterloo.ca/future-students/courses/software-engineering), and includes the standard courses for each semester of a software developer's first year:
 
+**September to December:**
+* CS 137 – Programming Principles
+* ECE 105 – Classical Mechanics
+* MATH 115 – Linear Algebra for Engineering
+* MATH 117 – Calculus 1 for Engineering
+* MATH 135 – Algebra for Honours Mathematics
+* SE 101 – Introductions to Methods of Software Engineering
+
+**January to April**:
+* CS 138 – Introduction to Data Abstraction and Implementation
+* ECE 106 – Electricity and Magnetism 
+*  ECE 124 – Digital Circuits and Systems 
+* ECE 140 – Linear Circuits
+* MATH 119 – Calculus 2 for Engineering
+*  SE 102 – Seminar 
+
+### Length of Degree 
+This program is especially long as a result of six neccesary, intermittent terms of work, as a part of University of Waterloo's co-op program.
+
+As such, a total of __four and a half years__ are required to become a graduate of the program.
