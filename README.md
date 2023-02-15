@@ -54,6 +54,22 @@ Entry | Software Engineer Intern | RippleX | Estimate of $44k-$106k per year [(G
 |Senior|Software Quality Engineer|Manulife|$72,450-$134,550[(Indeed, “Software Quality Engineer”)](https://ca.indeed.com/software-engineer-jobs?vjk=60208f206e3608d4&advn=1709696827864568)|Reviewing requirements, specifications, and technical design documents to provide meaningful feedback to product developers. Building, maintaining and implementing automated regression and performance test scripts. Analyzing automation results and investigation of failures. Designing detailed and comprehensive test plans and cases. Performing manual functional and regression testing where automation is not applicable. Identifying test KPIs for product quality and product reporting metrics. Tracking quality assurance metrics such as defect densities & defect frequency. Identifying Quality Assurance process bottlenecks and design and implement solutions. Preparing and deliver formal quality audit reports.
 |
 
-## University Example
+## Software Engineering at University of Waterloo
 ![Waterloo](https://uwaterloo.ca/future-students/sites/ca.future-students/files/uploads/images/eng-software-engineering.jpg "Waterloo Software Engineering")
 [(University of Waterloo, “Software Engineering”)](https://uwaterloo.ca/future-students/sites/ca.future-students/files/uploads/images/eng-software-engineering.jpg)
+### Entrance Requirements:
+According to the [Ontario Universities' Application Centre](https://www.ontariouniversitiesinfo.ca/programs/354), the following is either required or recommended for entrance into University of Waterloo's software engineering program.
+* A final grade of at least 70% is required for: 
+    * MHF4U
+    * MCV4U
+    * SCH4U
+    * ENG4U 
+    * SPH4U 
+    * 1 additional 4U/M course,(e.g ICS4U) 
+* An online video interview is recommended 
+* Evidence of experience in developing well-structured, modular programs is required, e.g:
+    * strong performance in a programming course such as ICS3U, ICS4U, or equivalent
+    * strong performance in a programming contest
+    * significant work experience
+
+
