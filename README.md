@@ -52,10 +52,11 @@ Non-technical skills refer to the more general skills, qualities, and characteri
 Entry | Software Engineer Intern | RippleX | Estimate of $44k-$106k per year [(Glassdoor)](https://www.glassdoor.ca/Salaries/software-engineer-intern-salary-SRCH_KO0,24.htm) | Building developer-friendly libraries, helping to create web apps which issue and manage  digital currencies, making open source Slack bots, and implementing tools to help developers
 |Mid Level|Software Engineer|Scotiabank|Estimate of 120k per year[(Indeed, “Software Engineer”)](https://ca.indeed.com/software-engineer-jobs?vjk=a0994cb45815b174&advn=5787714263672405)|Providing technical support to  development projects, writing and modifying APIs, and writing high performance software.
 |Senior|Software Quality Engineer|Manulife|$72,450-$134,550[(Indeed, “Software Quality Engineer”)](https://ca.indeed.com/software-engineer-jobs?vjk=60208f206e3608d4&advn=1709696827864568)|Reviewing requirements, specifications, and technical design documents to provide meaningful feedback to product developers. Building, maintaining and implementing automated regression and performance test scripts. Analyzing automation results and investigation of failures. Designing detailed and comprehensive test plans and cases. Performing manual functional and regression testing where automation is not applicable. Identifying test KPIs for product quality and product reporting metrics. Tracking quality assurance metrics such as defect densities & defect frequency. Identifying Quality Assurance process bottlenecks and design and implement solutions. Preparing and deliver formal quality audit reports.
-|
+
 
 ## Software Engineering at University of Waterloo
 ![Waterloo](https://uwaterloo.ca/future-students/sites/ca.future-students/files/uploads/images/eng-software-engineering.jpg "Waterloo Software Engineering")
+
 [(University of Waterloo, “Software Engineering”)](https://uwaterloo.ca/future-students/sites/ca.future-students/files/uploads/images/eng-software-engineering.jpg)
 ### Entrance Requirements:
 According to the [Ontario Universities' Application Centre](https://www.ontariouniversitiesinfo.ca/programs/354), the following is either required or recommended for entrance into University of Waterloo's software engineering program.
