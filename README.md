@@ -74,23 +74,23 @@ According to the [Ontario Universities' Application Centre](https://www.ontariou
     * significant work experience
 
 ### First Year Courses
-The [University of Waterloo's   website](https://uwaterloo.ca/future-students/programs/software-engineering?utm_source=mur-einfo&utm_medium=referral&utm_campaign=mur-ouac) describes the first year courses as "a mix of foundational courses in computer engineering, computer science, and math". The exact courses a first year student takes are displayed on the [University of Waterloo, “Courses for Your Software Engineering Degree”](https://uwaterloo.ca/future-students/courses/software-engineering) page. Courses include a clear focus on __engineering__, __mathematics__, and __computer science__. There are two CS courses, 4 math courses, 2 SE courses, and 4 ECE courses. Furthermore, many of these courses show clear overlap between subjects. This is evident in courses such as the math course "_Calculus 1 for Engineering_", or the CS course "_Introduction to Data Abstraction and Implementation_".
+The [University of Waterloo's   website](https://uwaterloo.ca/future-students/programs/software-engineering?utm_source=mur-einfo&utm_medium=referral&utm_campaign=mur-ouac) describes the first year courses as "a mix of foundational courses in computer engineering, computer science, and math". The exact courses a first year student takes are displayed on the [University of Waterloo, “Courses for Your Software Engineering Degree”](https://uwaterloo.ca/future-students/courses/software-engineering) page. Courses include a clear focus on the aforementioned __engineering__, __mathematics__, and __computer science__. There are two CS courses, 4 math courses, 2 SE courses, and 4 ECE courses. Furthermore, many of these courses show clear overlap between subjects. This is evident in courses such as the math course "_Calculus 1 for Engineering_", or the CS course "_Introduction to Data Abstraction and Implementation_".
 #### The following list is ripped from [(University of Waterloo, “Courses for Your Software Engineering Degree”)](https://uwaterloo.ca/future-students/courses/software-engineering), and includes the standard courses for  a software developer's first year:
 
 Course Code | Course Title | Description
 ---|---|---
-CS 137 | Programming Principles | 
-ECE 105 | Classical Mechanics | 
-MATH 115 | Linear Algebra for Engineering
-MATH 117 | Calculus 1 for Engineering
-MATH 135 | Algebra for Honours Mathematics
-SE 101 | Introductions to Methods of Software Engineering
-CS 138 | Introduction to Data Abstraction and Implementation
-ECE 106 | Electricity and Magnetism 
-ECE 124 | Digital Circuits and Systems 
-ECE 140 | Linear Circuits
-MATH 119 | Calculus 2 for Engineering
-SE 102 | Seminar 
+CS 137 | Programming Principles | "Review of fundamental programming concepts and their application.  Procedures and parameter passing. Arrays and structures. Recursion. Sorting. Pointers and simple dynamic structures. Space and time analysis of designs. Design methodologies."[(University of Waterloo, “Courses Computer Science”)](https://ucalendar.uwaterloo.ca/2324/COURSE/course-CS.html#CS137)
+ECE 105 | Classical Mechanics |"Forces in nature and Newton's laws, dynamics and circular motion, work, energy, and conservation of energy. Linear momentum and linear impulse, rotational dynamics. Oscillations; simple harmonic motion. Wave motion; traveling waves and standing waves."[(University of Waterloo, “Courses Electrical and Computer Engineering”)](https://ucalendar.uwaterloo.ca/2324/COURSE/course-ECE.html#ECE105)
+MATH 115 | Linear Algebra for Engineering | "Linear equations, matrices and determinants. Introduction to vector spaces. Eigenvalues and diagonalization. Applications. Complex numbers." [(University of Waterloo, “Courses Mathematics")](https://ucalendar.uwaterloo.ca/2324/COURSE/course-MATH.html#MATH115) 
+MATH 117 | Calculus 1 for Engineering | "Functions of engineering importance; review of polynomial, exponential, and logarithmic functions; trigonometric functions and identities. Inverse functions (logarithmic and trigonometric). Limits and continuity. Derivatives, rules of differentiation; derivatives of elementary functions. Applications of the derivative, max-min problems, Mean Value Theorem. Antiderivatives, the Riemann definite integral, Fundamental Theorems. Methods of integration, approximation, applications, improper integrals."[(University of Waterloo, “Courses Mathematics”)](https://ucalendar.uwaterloo.ca/2324/COURSE/course-MATH.html#MATH115)
+MATH 135 | Algebra for Honours Mathematics | "An introduction to the language of mathematics and proof techniques through a study of the basic algebraic systems of mathematics: the integers, the integers modulo n, the rational numbers, the real numbers, the complex numbers and polynomials."[(University of Waterloo, “Courses Mathematics”)](https://ucalendar.uwaterloo.ca/2324/COURSE/course-MATH.html#MATH115)
+SE 101 | Introductions to Methods of Software Engineering | "An introduction to some of the basic methods and principles used by software engineers, including fundamentals of technical communication, measurement, analysis, and design. Some aspects of the software engineering profession, including standards, safety and intellectual property. Professional development including résumé skills, interview skills, and preparation for co-op terms. Safety-orientation training, including WHMIS assessment, is included in this course."[(University of Waterloo, “Courses Software Engineering”)](https://ucalendar.uwaterloo.ca/2324/COURSE/course-SE.html#SE101)
+CS 138 | Introduction to Data Abstraction and Implementation | "Software abstractions via elementary data structures and their implementation; encapsulation and modularity; class and interface definitions; object instantiation; recursion; elementary abstract data types, including sequences, stacks, queues, and trees; implementation using linked structures and arrays; vectors and strings; memory models; automatic vs. dynamic memory management."[(University of Waterloo, “Courses Computer Science”)](https://ucalendar.uwaterloo.ca/2324/COURSE/course-CS.html#CS137)
+ECE 106 | Electricity and Magnetism | "Electrostatics: electric field, flux, Gauss's Law, potential and potential energy. Capacitors: dielectric, capacitance, electric energy storage. Resistors: charge flow, current, resistance. Magnetostatic: magnetic force, magnetic fields, Ampere's Law. Inductors: magnetic flux, inductance, magnetic materials, magnetic energy storage. Time-varying fields: Faraday's Law, mutual inductance, simple motors and generators."[(University of Waterloo, “Courses Electrical and Computer Engineering”)](https://ucalendar.uwaterloo.ca/2324/COURSE/course-ECE.html#ECE105)
+ECE 124 | Digital Circuits and Systems | "Number systems and Boolean arithmetic. Boolean algebra and simplification of Boolean functions. Combinational circuits. Sequential circuits; design and implementation. Hardware description languages. Timing analysis. Implementation technologies."[(University of Waterloo, “Courses Electrical and Computer Engineering”)](https://ucalendar.uwaterloo.ca/2324/COURSE/course-ECE.html#ECE105)
+ECE 140 | Linear Circuits | "Analysis of linear circuits. Voltage, current, resistance, capacitance, inductance, voltage source, current source, dependent sources, Ohm's Law, Kirchhoff's Laws, nodal analysis, mesh analysis, circuit transformations, operational amplifier circuits, time response, sinusoidal steady-state response. Preparing for, conducting, and reporting of laboratory experiments." [(University of Waterloo, “Courses Electrical and Computer Engineering”)](https://ucalendar.uwaterloo.ca/2324/COURSE/course-ECE.html#ECE105)
+MATH 119 | Calculus 2 for Engineering | "Methods of integration: by parts, trigonometric substitutions, partial fractions; engineering applications, approximation of integrals, improper integrals. Linear and separable first order differential equations, applications. Parametric curves and polar coordinates, arc length and area. Infinite sequences and series, convergence tests, power series and applications. Taylor polynomials and series, Taylor's Remainder Theorem, applications." [(University of Waterloo, “Courses Mathematics”)](https://ucalendar.uwaterloo.ca/2324/COURSE/course-MATH.html#MATH115)
+SE 102 | Seminar | "General seminar."[(University of Waterloo, “Courses Software Engineering”)](https://ucalendar.uwaterloo.ca/2324/COURSE/course-SE.html#SE101)
 
 ### Length of Degree 
 This program is especially long as a result of six neccesary, intermittent terms of work, as a part of University of Waterloo's co-op program.
@@ -142,7 +142,15 @@ Robert Half Talent Solutions. “Software Developer Job Description and Duties |
 
 U.S. Bureau of Labor Statistics. “Software Developers, Quality Assurance Analysts, and Testers : Occupational Outlook Handbook: : U.S. Bureau of Labor Statistics.” Www.bls.gov, U.S. Bureau of Labor Statistics, 6 Feb. 2023, <https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm#:~:text=Software%20developers%20create%20the%20computer>.
 
+University of Waterloo. “Courses Computer Science.” <https://ucalendar.uwaterloo.ca/2324/COURSE/course-CS.html#CS137> Accessed 17 Feb. 2023.
+
+---. “Courses Electrical and Computer Engineering.” <https://ucalendar.uwaterloo.ca/2324/COURSE/course-ECE.html#ECE105> Accessed 17 Feb. 2023.
+
 University of Waterloo. “Courses for Your Software Engineering Degree.” Undergraduate Programs, 8 July 2021, <https://uwaterloo.ca/future-students/courses/software-engineering>.
+
+---. “Courses Mathematics.” <https://ucalendar.uwaterloo.ca/2324/COURSE/course-MATH.html#MATH115> Accessed 17 Feb. 2023.
+
+---. “Courses Software Engineering.” <https://ucalendar.uwaterloo.ca/2324/COURSE/course-SE.html#SE101> Accessed 17 Feb. 2023.
 
 ---. “Software Engineering.” Undergraduate Programs, 3 Apr. 2013, <https://uwaterloo.ca/future-students/programs/software-engineering?utm_source=mur-einfo&utm_medium=referral&utm_campaign=mur-ouac>.
 
